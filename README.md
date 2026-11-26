@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=600&lines=Hej%2C+jeg+er+Frederik+%F0%9F%91%8B;Bygger+businesses+med+AI;Trading+%C2%B7+Content+%C2%B7+Automatisering;Shipper+hver+eneste+dag" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=600&lines=Hej%2C+jeg+er+Frederik+%F0%9F%91%8B;Bygger+businesses+med+AI;Trading+%C2%B7+Content+%C2%B7+Automatisering;Shipper+hver+eneste+dag+%F0%9F%9F%A9" alt="Typing" />
 
 </div>
 
